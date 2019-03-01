@@ -1,0 +1,31 @@
+header{
+  padding: 0;
+  margin: 0;
+  width: auto;
+  height: auto;
+  background-color: -moz-linear-gradient(top,#151515,#424242);
+  background-color: -webkit-linear-gradient(top,#151515,#424242);
+  background-color: linear-gradient(to bottom,#151515,#424242);
+  position: static;
+}
+
+.header-image{
+  height: 30px;
+  width: 110px;
+  float: left;
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+
+.header-link1{
+  float: left;
+}
+
+.header-link2{
+  float: right;
+}
+
+.header-link3{
+  float: right;
+}
